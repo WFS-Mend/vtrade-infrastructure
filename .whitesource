@@ -1,0 +1,6 @@
+{
+  "settingsInheritedFrom": "WFS-Mend/whitesource-config@main",
+  "scanSettings": {
+    "enableIaC": true
+  }
+}
